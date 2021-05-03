@@ -1,2 +1,2 @@
 # sqlimperial
-Ines to Imperial and the other way around
+Inches to Imperial and the other way around
